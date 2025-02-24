@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-Subscription Tracker API is a Node.js and Express-based backend that helps users track their subscriptions, manage billing cycles, and receive notifications. This API enables authentication, subscription management, email reminder.
+Subscription Tracker API is a Node.js and Express-based backend that helps users track their subscriptions, manage billing cycles, and receive notifications through a workflow. This API enables authentication, subscription management, email reminder.
 
 ## 🚀 Features
 
